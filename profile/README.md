@@ -28,12 +28,6 @@ We are not a vertical AI play. The wedge is a functional pattern:
 
 When that pattern is present — legal review, RMA triage, fraud triage, insurance claims, KYC/AML, compliance audit, medical intake, benefit eligibility — the examples-in, workflow-out approach works. The steady-state runs autonomously; ambiguous cases route to a human.
 
-## Proof
-
-Two paying customers in under two months (as of 2026-05-14):
-
-- **A chambers-ranked law firm.** Patent risk analysis went from **one week per analysis to thirty minutes per analysis** — same lawyer, same standard, same firm. The workflow was built from the firm's own examples of correct analyses; no prior AI baseline existed to beat.
-
 ## Akribes — the AI Workflow DSL
 
 Akribes is the language generated workflows are expressed in, and the runtime that executes them. It is what makes Podesta workflows portable, auditable, and re-trainable across model generations.
